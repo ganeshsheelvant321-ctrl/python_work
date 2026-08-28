@@ -1,0 +1,11 @@
+#mad-libs
+name=input("enter the name:")
+market=input("enter the market name:")
+stop=input("entr some words:")
+market2=input("enter the market2 name:")
+print(f"hello everybody my name is {name}")
+print(f"today i went to market called {market}")
+print(f"in that {market} i saw figheting fought by two rowdies")
+print(f"after seeing those rowdies fight i shocked and say them{stop}")
+print(f"after convencing them i went to another market called{market2}")
+print(f"after going to {market2} i buy some books and then return to home")
